@@ -5,5 +5,4 @@ dist
 dist-ssr
 *.local
 .env
-firebase-config.js
 .vscode
