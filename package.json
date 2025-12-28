@@ -13,7 +13,7 @@
     "@tensorflow-models/posenet": "^2.2.2",
     "@tensorflow/tfjs": "^3.18.0",
     "aos": "^3.0.0-beta.6",
-    "firebase": "^9.9.0",
+    "firebase": "^10.7.0",
     "fs": "^0.0.1-security",
     "memfs": "^4.9.2",
     "react": "^18.2.0",
